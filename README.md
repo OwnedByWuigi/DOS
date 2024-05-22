@@ -9,3 +9,4 @@ Git (and GitHub) by default makes all files UTF-8. DOS does NOT like UTF-8, and 
 # License
 
 All files within this repo are released under the [MIT License]( https://en.wikipedia.org/wiki/MIT_License).
+All other projects by Envy are released under the [GNU GPL v3 License]( https://www.gnu.org/licenses/gpl-3.0.html).
