@@ -4,7 +4,7 @@ This repo contains the source code for the Envy DOS Subsystem. This is a direct 
 
 # Why an archive?
 
-Git (and GitHub) by default makes all files UTF-8. DOS does NOT like UTF-8, and we have to preserve the older style of text so DOS can compile.
+Git (and GitHub) by default makes all files UTF-8. DOS does NOT like UTF-8, and we have to preserve the older style of text (ASCII) so DOS can compile successfully.
 
 # License
 
